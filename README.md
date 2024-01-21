@@ -1,2 +1,1 @@
-# Roll-The-Dice
-Roll the Dice App
+Basic Roll The Dice App with amazing background pattern generated on rolling the dice
